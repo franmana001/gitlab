@@ -35,7 +35,7 @@ echo RDP Address:
 curl --silent --show-error http://127.0.0.1:4040/api/tunnels | sed -nE 's/.*public_url":"tcp:..([^"]*).*/\1/p'
 echo "===================================="
 echo "Username: Administrator"
-echo "Password: gwb@1234567"
+echo "Password: Lingg@H0sting"
 echo "===================================="
 echo "===================================="
 echo "Don't closse this Tab"
@@ -50,7 +50,4 @@ g='\E[32m'
 c='\E[36m'
 endc='\E[0m'
 enda='\033[0m'
-# Branding
-          
-$endc$enda""";
 sleep 43200
